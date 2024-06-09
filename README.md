@@ -75,13 +75,7 @@ Pneumonia is a serious lung infection that can be life-threatening. Early detect
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
 
-3. **Install the required packages:**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Download the dataset:**
+3. **Download the dataset:**
    - Download the dataset from Kaggle and place it in the appropriate directory as specified in the notebook.
 
 ---
